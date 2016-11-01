@@ -6,4 +6,4 @@
 
 Sa maîtrise absolue est relativement complexe, ceci dit on peut faire pas mal de choses avec seulement quelques bases, **à peu près autant qu'avec le b.a-ba d'Excel**.
 
-La preuve avec ce notebook !
+La preuve [avec ce notebook](https://github.com/raphadasilva/Initiation-pandas/blob/master/initiation_pandas.ipynb) !
